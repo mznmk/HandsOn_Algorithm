@@ -16,7 +16,7 @@ https://gihyo.jp/book/2018/978-4-7741-9690-9
 https://github.com/okumuralab/algo-c  
 
 
-# Py_Algo_Hirose
+## Py_Algo_Hirose
 
 廣瀬豪 - Pythonで学ぶアルゴリズムの教科書 一生モノの知識と技術を身につける
 https://book.impress.co.jp/books/1120101024  
