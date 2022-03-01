@@ -16,7 +16,13 @@ https://gihyo.jp/book/2018/978-4-7741-9690-9
 https://github.com/okumuralab/algo-c  
 
 
-## Python_Algo
+# Py_Algo_Hirose
+
+廣瀬豪 - Pythonで学ぶアルゴリズムの教科書 一生モノの知識と技術を身につける
+https://book.impress.co.jp/books/1120101024  
+
+
+## Py_Algo_Sakai
 
 酒井潤 - 現役シリコンバレーエンジニアが教えるアルゴリズム・データ構造・コーディングテスト入門   
 https://www.udemy.com/course/python-algo/  
