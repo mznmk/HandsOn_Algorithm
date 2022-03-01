@@ -1,4 +1,4 @@
-# HandsOn Algorithm Programming
+# HandsOn Programming Algorithm
 
 HandsOn形式での Programming Algorithm の学習記録  
 
