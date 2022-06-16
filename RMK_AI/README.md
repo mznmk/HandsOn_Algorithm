@@ -1,24 +1,33 @@
 # Rithumeikan Artificial Intelligence 2021
 
-立命館大学 情報理工学部 ３年 人工知能(2021年) の講義リンクです。  
+立命館大学 情報理工学部 ２年 人工知能(2021年) の講義リンクです。  
 
-http://dopal.cs.uec.ac.jp/okamotoy/lect/2021/gn/  
-https://www.youtube.com/playlist?list=PLy-oTDIMFHjCUvDzDCag7mOzMq4lZ5B28  
+https://www.youtube.com/playlist?list=PLVeOcJEDy3QJyvGpXwNsvskgFf5S3gxnF  
 
 
 ## 第1章 人工知能をつくり出そう
 
+✅ 受講完了: 1回  
+
 
 ## 第2章 探索(1):状態空間と基本的な探索
+
+✅ 受講完了: 1回  
 
 
 ## 第3章 探索(2):最適経路の探索
 
+✅ 受講完了: 1回  
+
 
 ## 第4章 探索(3):ゲームの理論
 
+✅ 受講完了: 1回  
+
 
 ## 第5章 計画と決定(1):動的計画法
+
+✅ 受講完了: 1回  
 
 
 ## 第6章 確率モデル(1):確率とベイズ理論の基礎

@@ -2,10 +2,12 @@
 
 中央大学 精密機械工学科 ソフトコンピューティング(2021年) の講義リンクです。  
 
-http://www.robot.t.u-tokyo.ac.jp/~an/lecture/softcomputing/index.html    
+https://www.youtube.com/playlist?list=PLWOPUiwWabekqo9vRRWRysPykDT3VNi0y  
 
 
 ## 第1週 イントロダクション
+
+✅ 受講完了: 1回  
 
 
 ## 第2週 予備知識1（グラフ理論、命題論理）
